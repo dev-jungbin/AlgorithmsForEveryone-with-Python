@@ -13,8 +13,8 @@ def c1_1(n):
         answer += pow(i, 2)
     return answer
 
-print(sum_1ton(10))
-print(pow_sum(10))
+print(c1(10))
+print(c1_1(10))
 
 ## 1-2 O(n) -> n=1이면 제곱 한 번 더하기 한 번, n=2이면 제곱 두 번 더하기 두 번 ...
 
