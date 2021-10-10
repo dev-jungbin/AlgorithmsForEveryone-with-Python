@@ -19,15 +19,16 @@ print("동명이인 찾기", c3_0(name_array))
 # 3-1
 def c3_1(array):
     answer = []
+    n = len(array)
 
-    for i in range(0, len(array)):
-        for j in range(i + 1, len(array)):
+    for i in range(0, n-1):
+        for j in range(i + 1, n):
             answer.append(array[i] + " - " + array[j])
     for x in answer:
         print(x)
 
 
-simple_name_array = ["Tom", "Jane", "Ann"]
+simple_name_array = ["Tom", "Jane", "Ann", "hi", "max", "min"]
 c3_1(simple_name_array)
 
 # 3-2
