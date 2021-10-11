@@ -1,5 +1,5 @@
 # AlgorithmsForEveryone-with-Python
-🌱 모두의 알고리즘 with Python - Example Repo with SOURCE 🧛🏽‍♀️
+🌱 모두의 알고리즘 with Python - Example Repo with SOURCE
 
 ### 1. 알고리즘 기초
 
