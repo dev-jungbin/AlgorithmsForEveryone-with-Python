@@ -1,5 +1,6 @@
 # AlgorithmsForEveryone-with-Python
 🌱 모두의 알고리즘 with Python - Example Repo with SOURCE
+[https://academy.elice.io/courses/5005/info](https://academy.elice.io/courses/5005/info)
 
 ### 1. 알고리즘 기초
 
