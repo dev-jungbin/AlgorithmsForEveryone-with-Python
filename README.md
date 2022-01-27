@@ -38,7 +38,7 @@
 
 [문제 14 동명이인 찾기(2) - 딕셔너리](chapter-14.py)
 
-문제 15 친구의 친구 찾기 - 그래프
+[문제 15 친구의 친구 찾기 - 그래프](chapter-15.py) https://cyc1am3n.github.io/2019/04/26/bfs_dfs_with_python.html
 
 ### 응용 문제
 
